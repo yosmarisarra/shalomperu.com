@@ -1,0 +1,32 @@
+.wrap {
+width: 100vw;
+height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+body {
+    background-image: url(logo-shalom.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+
+    .wrap-text{
+        color: rgb(255, 255, 255);
+        text-align: center;
+        width: 50%;
+
+
+    }    
+    .wrap-text{
+        background: #f52d2d;
+        border-radius: 4px;
+        font-family: 'calibri';
+        box-shadow: 7px 13px 37px #000;
+        
+
+    }
